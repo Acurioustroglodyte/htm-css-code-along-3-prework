@@ -46,9 +46,13 @@ figcaption {
 
 /* Descendent selector */
 #logo h1 { /* Selects <h1> if inside the logo ID */
-  font-family: "Clicker Script", cursive; 
+  font-family: "Clicker Script", cursive;
 }
 
 #logo h2 { /* Selects <h2> if inside the logo ID */
   font-family: "Elsie Swash Caps", cursive; 
 }
+
+/* Psuedo Class Selectors */
+
+#details a:link
