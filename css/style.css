@@ -34,5 +34,8 @@ figcaption {
 
 /* Class selector (applied to as many elements or types of elements as your like) */
 .milk-text { /* Select elements with a class attribute equal to milk-text */
-  font: bold 2.6em "Elsie Swash Caps", "Cursive" white text-shadow;
+  font: bold 2.6em "Elsie Swash Caps", "Cursive";
+  color: white;
+  text-shadow: 0 2px 3px #000;
+  
 }
