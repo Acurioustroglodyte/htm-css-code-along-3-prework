@@ -44,5 +44,7 @@ figcaption {
   background: aqua;
 }
 
-/* Descendent selector
-
+/* Descendent selector */
+#logo h1 { /* Selects <h1> if inside the logo ID */
+  font-family: "Clicker Script", cursive; 
+}
