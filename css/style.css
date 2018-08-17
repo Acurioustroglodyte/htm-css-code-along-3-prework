@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css?family=Elsie+Swash+Caps');
+
+
 /* This is my comment
 there are many like it
 but this one is mine! */
@@ -25,5 +28,5 @@ figcaption {
   font-family: Georgia, "New Times Roman", "Serif";
   font: normal 0.75em/1.5em Georgia, "New Times Roman", "Serif";
   color: turquoise;
-  text-align: right;
+  text-align: right; 
 }
